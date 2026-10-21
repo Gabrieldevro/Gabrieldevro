@@ -121,6 +121,9 @@ De la idee și design până la plăți, SEO, deploy și mentenanță.
 
 | Repo | Ce face |
 |---|---|
+| [**laravel-netopia**](https://github.com/Gabrieldevro/laravel-netopia) | Plăți NETOPIA (API v2) în Laravel: pornire plată, status și IPN verificat prin semnătură RS512. |
+| [**laravel-romanian-rules**](https://github.com/Gabrieldevro/laravel-romanian-rules) | Validări Laravel pentru CNP, CUI/CIF, IBAN românesc și telefon, cu cifre de control oficiale. |
+| [**laravel-consent-mode**](https://github.com/Gabrieldevro/laravel-consent-mode) | Banner GDPR cu Google Consent Mode v2, în care totul e refuzat până la acordul vizitatorului. |
 | [**seo-audit-cli**](https://github.com/Gabrieldevro/seo-audit-cli) | Audit SEO on-page din terminal, cu scor 0–100 și verificare în CI. Fără dependențe. |
 | [**stripe-checkout-starter**](https://github.com/Gabrieldevro/stripe-checkout-starter) | Stripe Checkout pentru plăți unice și abonamente, cu webhook-uri verificate prin semnătură. |
 | [**cv-builder**](https://github.com/Gabrieldevro/cv-builder) | Generator de CV în browser, cu previzualizare A4 și export PDF. [Demo live](https://gabrieldevro.github.io/cv-builder/) |
