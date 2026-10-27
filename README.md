@@ -129,6 +129,11 @@ De la idee și design până la plăți, SEO, deploy și mentenanță.
 
 | Repo | Ce face |
 |---|---|
+| [**claude-seo-skills**](https://github.com/Gabrieldevro/claude-seo-skills) | Plugin SEO pentru Claude Code (audit, meta, schema, brief, linkuri interne, SEO local, GEO) + 37 de prompturi SEO, și în română. |
+| [**ai-visibility-audit**](https://github.com/Gabrieldevro/ai-visibility-audit) | Verifică dacă ChatGPT, Claude și Perplexity îți pot citi și cita site-ul: robots.txt, blocări de hosting, llms.txt, schema. |
+| [**laravel-llms-txt**](https://github.com/Gabrieldevro/laravel-llms-txt) | `/llms.txt` și `/llms-full.txt` generate automat în Laravel, din config, rute sau modele. |
+| [**laravel-anaf**](https://github.com/Gabrieldevro/laravel-anaf) | Date firmă după CUI direct de la ANAF (TVA, e-Factura, inactiv) și completare automată a facturării. |
+| [**romania-geo-data**](https://github.com/Gabrieldevro/romania-geo-data) | Cele 42 de județe și 13.755 de localități, cu SIRUTA, coduri poștale și diacritice corecte. JSON, CSV, SQL, JS, PHP. |
 | [**laravel-netopia**](https://github.com/Gabrieldevro/laravel-netopia) | Plăți NETOPIA (API v2) în Laravel: pornire plată, status și IPN verificat prin semnătură RS512. |
 | [**laravel-romanian-rules**](https://github.com/Gabrieldevro/laravel-romanian-rules) | Validări Laravel pentru CNP, CUI/CIF, IBAN românesc și telefon, cu cifre de control oficiale. |
 | [**laravel-consent-mode**](https://github.com/Gabrieldevro/laravel-consent-mode) | Banner GDPR cu Google Consent Mode v2, în care totul e refuzat până la acordul vizitatorului. |
