@@ -60,7 +60,7 @@ De la idee și design până la plăți, SEO, deploy și mentenanță.
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/Gabrieldevro/casalista-real-estate-portal"><img src="https://raw.githubusercontent.com/Gabrieldevro/casalista-real-estate-portal/main/cover.jpg" alt="Casalista"></a>
-<b><a href="https://github.com/Gabrieldevro/casalista-real-estate-portal">Casalista</a></b>: portal cu toate locuințele noi din București și Ilfov, căutare în limbaj natural. · <a href="https://casalista.ro">live</a>
+<b><a href="https://github.com/Gabrieldevro/casalista-real-estate-portal">Casalista</a></b>: portal cu toate locuințele noi din București și Ilfov, căutare în limbaj natural. · <a href="https://casalista.gabrieldev.eu">live</a>
 </td>
 </tr>
 <tr>
@@ -83,15 +83,23 @@ De la idee și design până la plăți, SEO, deploy și mentenanță.
 <b><a href="https://github.com/Gabrieldevro/asistai-saas-chatbot">AsistAi.ro</a></b>: platformă SaaS de chatbot inteligent pentru afaceri. · <a href="https://asistai.ro">live</a>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://bebe-land.com"><img src="https://bebe-land.com/storage/site/hero.webp" alt="Bebe-Land"></a>
+<b><a href="https://bebe-land.com">Bebe-Land</a></b>: magazin premium pentru bebeluși și copii. · <a href="https://bebe-land.com">live</a>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
 
 <details>
-<summary><b>📁 Toate proiectele (22)</b></summary>
+<summary><b>📁 Toate proiectele (23)</b></summary>
 
 | Proiect | Tip | Live |
 |---|---|---|
 | [INONLINE](https://github.com/Gabrieldevro/inonline-publication-platform) | Publicație + Academy + abonament | [inonline.ro](https://inonline.ro) |
-| [Casalista](https://github.com/Gabrieldevro/casalista-real-estate-portal) | Portal imobiliar | [casalista.ro](https://casalista.ro) |
+| [Casalista](https://github.com/Gabrieldevro/casalista-real-estate-portal) | Portal imobiliar | [casalista.gabrieldev.eu](https://casalista.gabrieldev.eu) |
+| [Bebe-Land](https://bebe-land.com) | Magazin premium pentru bebeluși și copii | [bebe-land.com](https://bebe-land.com) |
 | [Ideal Concept Design](https://github.com/Gabrieldevro/ideal-concept-3d-furniture) | Site + configurator 3D | [mobila.gabrieldev.eu](https://mobila.gabrieldev.eu) |
 | [Nova Shine](https://github.com/Gabrieldevro/nova-shine-cleaning-bookings) | Programări online | [clean.gabrieldev.eu](https://clean.gabrieldev.eu) |
 | [VENETIA Club Casino](https://github.com/Gabrieldevro/venetia-club-casino-3d) | Joc 3D multiplayer | — |
